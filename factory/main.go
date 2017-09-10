@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 type Type int
 
 const (
